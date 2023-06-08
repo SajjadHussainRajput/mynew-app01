@@ -7,6 +7,7 @@ import Nav from "../../component/Nav"
     
     <h1>HOME ===  Hello MyNew App 01</h1>
     <p> HOME === Learning Next.js</p>
+    <h3>Hello Pakistan </h3>
 <Card/>
     </div>
   )
